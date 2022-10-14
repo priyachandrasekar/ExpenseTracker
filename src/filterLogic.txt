@@ -1,0 +1,20 @@
+Transaction data available
+
+Frontend -
+Start date & End date
+
+Date Function - reasecrh
+
+Date(Start adte)= > convert toi seconds format
+date (End date)=> convert toi seconds format
+
+on clicking filter button
+
+convert seconds + nanoseconds => seconds format
+
+
+
+array
+
+
+filteroperation
